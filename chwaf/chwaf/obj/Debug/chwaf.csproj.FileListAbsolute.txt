@@ -1,0 +1,33 @@
+C:\Users\DarkCode\source\repos\chwaf\chwaf\bin\Debug\chwaf.exe.config
+C:\Users\DarkCode\source\repos\chwaf\chwaf\bin\Debug\chwaf.exe
+C:\Users\DarkCode\source\repos\chwaf\chwaf\bin\Debug\chwaf.pdb
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.csprojAssemblyReference.cache
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.Form1.resources
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.Properties.Resources.resources
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.csproj.GenerateResource.cache
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.csproj.CoreCompileInputs.cache
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.exe
+C:\Users\DarkCode\source\repos\chwaf\chwaf\obj\Debug\chwaf.pdb
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\bin\Debug\chwaf.exe.config
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\bin\Debug\chwaf.exe
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\bin\Debug\chwaf.pdb
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.csprojAssemblyReference.cache
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.Form1.resources
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.Properties.Resources.resources
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.csproj.GenerateResource.cache
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.csproj.CoreCompileInputs.cache
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.exe
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.pdb
+C:\Users\Khalil PC\Desktop\chwaf\chwaf\obj\Debug\chwaf.Form2.resources
+E:\Games\chwaf\chwaf\chwaf\bin\Debug\chwaf.exe.config
+E:\Games\chwaf\chwaf\chwaf\bin\Debug\chwaf.exe
+E:\Games\chwaf\chwaf\chwaf\bin\Debug\chwaf.pdb
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.csproj.AssemblyReference.cache
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.csproj.SuggestedBindingRedirects.cache
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.Form1.resources
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.Form2.resources
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.Properties.Resources.resources
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.csproj.GenerateResource.cache
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.csproj.CoreCompileInputs.cache
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.exe
+E:\Games\chwaf\chwaf\chwaf\obj\Debug\chwaf.pdb
